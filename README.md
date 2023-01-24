@@ -48,12 +48,13 @@ Ready, now just access the routes through Insomnia, Postman or any other of your
 - ``TypeScript``
 - ``Node``
 - ``Fastify``
-- ``Fastify JWT``
 - ``SQLite``
 - ``Prisma``
 - ``Cors``
 - ``Zod``
-- ``ShortUniqueId``
+- ``DayJs``
+
+
 
 
 
