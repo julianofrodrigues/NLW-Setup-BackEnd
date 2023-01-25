@@ -8,8 +8,10 @@ The mobile project is in this other repository:
 To try it is very simple:<br>
 -Clone the repository
 ```bash
-$ git clone https://github.com/julianofrodrigues/backEnd-NLW-Copas
+$ git clone 
 ```
+-Rename env.example to .env <br>
+
 -Download the libraries
 ```bash
 $ yarn install
