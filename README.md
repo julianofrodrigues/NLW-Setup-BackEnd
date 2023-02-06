@@ -1,14 +1,16 @@
-<h1 align="center"> NLW-Setup-Back-End </h1>
+<h1 align="center"> 🗓 NLW-Setup-Back-End </h1>
 
 # Project Summary
-Back-end of the NLW Setup... <br>
-The front-end is at this repository: <br>
-The mobile project is in this other repository:
+
+Back-end of the NLW Setup, project built for construction of housing worksheet.<br>
+The front-end is at this repository: https://github.com/julianofrodrigues/NLW-Setup-FrontEnd <br>
+The mobile project is in this other repository: https://github.com/julianofrodrigues/NLW-Setup-FrontEnd
+
 ## 📁 Project Access
 To try it is very simple:<br>
 -Clone the repository
 ```bash
-$ git clone 
+$ git clone https://github.com/julianofrodrigues/NLW-Setup-BackEnd
 ```
 -Rename env.example to .env <br>
 
